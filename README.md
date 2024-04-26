@@ -1,10 +1,10 @@
-# DBMIDProject-2022-cs-60
+# CLO Management System 
 
 
 
 ## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+In tis repo ,clo management sytem is availbel .
 
 Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
