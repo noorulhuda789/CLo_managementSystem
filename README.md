@@ -12,7 +12,7 @@ The CLO (Course Learning Outcomes) Management System is designed to help educati
 
 ## Getting Started
 
-d
+
 
 ### Installation
 
