@@ -19,5 +19,5 @@ The CLO (Course Learning Outcomes) Management System is designed to help educati
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/clo-management-system.git
-   cd clo-management-system
+   git clone (https://github.com/noorulhuda789/CLo_managementSystem)
+   
